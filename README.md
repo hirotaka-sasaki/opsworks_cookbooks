@@ -12,6 +12,7 @@ This is cookbooks for Rails Application.
 ```
 ## PaperTrail
 ### Custom JSON of Opsworks
+```
 {
   "papertrail": {
     "remote_host": "logs2.papertrailapp.com",
@@ -22,7 +23,7 @@ This is cookbooks for Rails Application.
     }
   }
 }
-
+```
 ## Redis
 Please read README of below github link.
 https://github.com/hirotaka-sasaki/redis_opsworks_cookbook
